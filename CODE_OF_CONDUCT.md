@@ -53,6 +53,9 @@ Community Moderators take reports of violations seriously and will make every ef
 
 ## Addressing and Repairing Harm
 
+Disagreement, criticism, and negative feedback are not, by themselves, violations of this Code of Conduct. Community members may raise good-faith concerns or criticism about decisions, conduct, policies, work product, or community practices, even when that feedback is uncomfortable or strongly expressed. A person’s disagreement with, or negative reaction to, criticism does not by itself establish harm or a Code of Conduct violation.
+
+Where the substance of a criticism is legitimate but the manner in which it was communicated does not meet the expectations of this Code, Community Moderators should, where appropriate, give the individual an opportunity to restate or rephrase the criticism in a constructive manner. Enforcement should address prohibited conduct or the manner of communication without suppressing the underlying concern.
 ****
 
 If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
@@ -60,7 +63,7 @@ If an investigation by the Community Moderators finds that this Code of Conduct 
 1) Warning
    1) Event: A violation involving a single incident or series of incidents.
    2) Consequence: A private, written warning from the Community Moderators.
-   3) Repair: Examples of repair include a private written apology, acknowledgement of responsibility, and seeking clarification on expectations.
+   3) Repair: Examples of repair include a private written apology, acknowledgement of responsibility, seeking clarification on expectations, or restating a legitimate criticism in a manner consistent with this Code of Conduct.
 2) Temporarily Limited Activities
    1) Event: A repeated incidence of a violation that previously resulted in a warning, or the first incidence of a more serious violation.
    2) Consequence: A private, written warning with a time-limited cooldown period designed to underscore the seriousness of the situation and give the community members involved time to process the incident. The cooldown period may be limited to particular communication channels or interactions with particular community members.

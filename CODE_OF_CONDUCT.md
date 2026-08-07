@@ -53,9 +53,12 @@ Community Moderators take reports of violations seriously and will make every ef
 
 ## Addressing and Repairing Harm
 
-Disagreement, criticism, and negative feedback are not, by themselves, violations of this Code of Conduct. Community members may raise good-faith concerns or criticism about decisions, conduct, policies, work product, or community practices, even when that feedback is uncomfortable or strongly expressed. A person’s disagreement with, or negative reaction to, criticism does not by itself establish harm or a Code of Conduct violation.
+**Disagreement, criticism, and negative feedback** are not, by themselves, violations of this Code of Conduct. Community members may raise good-faith concerns or criticism about decisions, conduct, policies, work product, or community practices, even when that feedback is uncomfortable or strongly expressed. A person’s disagreement with, or negative reaction to, criticism does not by itself establish harm or a Code of Conduct violation.
 
 Where the substance of a criticism is legitimate but the manner in which it was communicated does not meet the expectations of this Code, Community Moderators should, where appropriate, give the individual an opportunity to restate or rephrase the criticism in a constructive manner. Enforcement should address prohibited conduct or the manner of communication without suppressing the underlying concern.
+
+**Factual and subjective criticism** Community members may express factual claims, subjective opinions, value judgments, criticism, or strongly worded disagreement regarding ideas, proposals, decisions, policies, conduct, work product, or community practices. Such statements do not constitute a violation merely because they are negative, blunt, unpopular, uncomfortable, or perceived as disrespectful. The distinction is between criticizing the subject matter and attacking an individual or group. Members may criticize what someone has done, proposed, decided, or contributed, but may not use insults, demeaning characterizations, personal attacks, harassment, discrimination, threats, or other conduct prohibited by this Code. Subjective disagreement does not need to be objectively provable in order to be permitted. Community Moderators should therefore evaluate the nature and target of the communication rather than whether the criticism was polite, agreeable, or objectively correct. Where a legitimate concern is expressed in a manner that violates this Code, enforcement should address the prohibited manner of communication without suppressing the underlying criticism or viewpoint.
+
 ****
 
 If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
@@ -72,10 +75,10 @@ If an investigation by the Community Moderators finds that this Code of Conduct 
    1) Event: A pattern of repeated violation which the Community Moderators have tried to address with warnings, or a single serious violation.
    2) Consequence: A private written warning with conditions for return from suspension. In general, temporary suspensions give the person being suspended time to reflect upon their behavior and possible corrective actions.
    3) Repair: Examples of repair include respecting the spirit of the suspension, meeting the specified conditions for return, and being thoughtful about how to reintegrate with the community when the suspension is lifted.
-4) Permanent Ban
+4) Long-Term Suspension
    1) Event: A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or a violation so serious that the Community Moderators determine there is no way to keep the community safe with this person as a member.
    2) Consequence: Access to all community spaces, tools, and communication channels is removed. In general, permanent bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working through other remedies has failed to change the behavior.
-   3) Repair: There is no possible repair in cases of this severity.
+   3) Repair: After 10 years the Moderators can consider an appeal. 
 
 This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their discretion and judgment, in keeping with the best interests of our community.
 
